@@ -12,6 +12,6 @@
 <a href="https://www.instagram.com/vic.torialia" <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" alt="instagram logo" style="max-width: 100%" height="25" weight="40"> </a>
 <br>
 <br>
-📩 Mail: 
+📩 Email: 
 <br>
 <a href="mailto:mvictoriaalia@gmail.com"> mvictoriaalia@gmail.com </a>
