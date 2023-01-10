@@ -5,16 +5,24 @@
 <br>
 - 💻 Me estoy iniciado en este 🌏 asi que en este perfil voy a estar publicando las prácticas de mis proyectos 💻
 <br>
--🤳Contacto:
-<br>
-<br>
-<a href="https://www.linkedin.com/in/maria-victoria-alia-a79682206/" rel="nofollow"> <img src="https://camo.githubusercontent.com/63006d6145cf91967f950f5f7397e757928ab7d086dea8764c2e125837f31f41/68747470733a2f2f692e696d6775722e636f6d2f4552555a526e752e706e67" atl="Linkedin logo" style="max-width: 100%" target="_blank"> </a>
-<a href="https://www.facebook.com/victoria.alia" rel="nofollow"> <img src="https://www.facebook.com/images/fb_icon_325x325.png" atl="facebook logo" style="max-width: 100%" height="25" weight="40" target="_blank"> </a>
-<a href="https://twitter.com/citizwnerased" rel="nofollow"> <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" atl="twitter logo" style="max-width: 100%" height="25" weight="40" target="_blank"></a>
-<br>
-<br>
 📩 Email: 
 <br>
 <a href="mailto:mvictoriaalia@gmail.com"> mvictoriaalia@gmail.com </a>
 <br>
-<img src="https://media.tenor.com/q6HthHDECUsAAAAC/jesus-christ-homer.gif">
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=victoriaalia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=victoriaalia&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaalia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/victoria.alia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vic.torialia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-victoria-alia) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/citizwnerased) 
+
+<h3 align= "center"> <img src="https://media.tenor.com/q6HthHDECUsAAAAC/jesus-christ-homer.gif"> </h3>
+
+---
+![Snake animation](https://svgshare.com/i/oF8.svg)
+
+[![](https://visitcount.itsvg.in/api?id=victoriaalia&icon=4&color=5)](https://visitcount.itsvg.in)
+
